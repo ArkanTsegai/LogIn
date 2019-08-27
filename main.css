@@ -1,0 +1,48 @@
+fieldset{
+    width:35%;
+    margin-left: 400px;
+}
+
+
+
+legend{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+h1, p{
+    margin-left: 400px;
+}
+
+p{
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: bold;
+}
+
+label{
+    display: block;
+    padding:10px;
+}
+
+input[type="text"], input[type="password"], input[type="submit"]{
+    padding:8px;
+    width: 90%;
+    margin-left: 10px;
+}
+
+input[type="submit"]{
+    width: 94%;
+    display: block;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    padding: 10px;
+}
